@@ -10,6 +10,6 @@ The repository consists of projects with a detailed documentation of results and
 * Samples and statistics.
 * Integrals and Intervals.
 * Markov Chain and discrete events.
-* Continous Sampling.
+* Continuous Sampling.
 * Expectation Maximization.
 * Markov Chain Monte Carlo.
